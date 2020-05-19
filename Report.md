@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-# Project 2: Continuous Control - Report
+# Project 3: Collaboration and Competition - Report
 
 ### Settings
 
