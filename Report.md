@@ -82,12 +82,9 @@ The maximum number of timesteps per episode is 1000.
 
 ### Result
 
-Three results of the training are shown in the plots below. The value for solving the task was lifted from +0.5 to +1.0. As you can see the problem can be solved within 2000 episodes. 
+The result of the training is shown in the plot below. The value for solving the task was lifted from +0.5 to +1.0. 
 
-![Training results](./Result1_DDPG.png  "Training results")
-![Training results](./Result2_DDPG.png  "Training results")
-![Training results](./Result3_DDPG.png  "Training results")
-
+![Training results](./Result.png  "Training results")
 
 ### Future Improvements
 To improve performance one might consider to optimize the hyperparameters, like the network architecture, learning rates etc. and / or use alternative learning algorithms like multi-agent DDPG. 
